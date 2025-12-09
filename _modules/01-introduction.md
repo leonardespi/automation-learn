@@ -3,7 +3,6 @@ layout: module
 title: "01 Introduction"
 permalink: /modules/01-introduction/
 ---
-# Module 1 — Introduction
 
 Welcome to your very first step in the world of **test automation**!
 
