@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "07 Debugging"
+title: "08 Debugging"
 permalink: /modules/07-debugging/
 ---
 

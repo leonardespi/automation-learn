@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "04 POM Architecture"
+title: "05 POM Architecture"
 permalink: /modules/04-pom-architecture/
 ---
 

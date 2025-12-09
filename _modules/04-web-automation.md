@@ -1,14 +1,14 @@
 ---
 layout: module
-title: "05 Assertions Reporting"
-permalink: /modules/05-assertions-reporting/
+title: "04 Web Automation"
+permalink: /modules/03-web-automation/
 ---
 
 <!DOCTYPE html>
 <html lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>05 Assertions Reporting</title>
+<title>03 Web Automation</title>
 <style>
 :root{
   --bg:#fff;
@@ -37,16 +37,16 @@ ul,ol{padding-left:1.25rem}
 <body>
   <div class="container">
     <header>
-      <div class="header-title">05 Assertions Reporting</div>
+      <div class="header-title">03 Web Automation</div>
       <nav><ul><li><a href="index.html">Index</a></li><li><a href="01-introduction.html">01 Introduction</a></li><li><a href="02-python-basics.html">02 Python Basics</a></li><li><a href="03-web-automation.html">03 Web Automation</a></li><li><a href="04-pom-architecture.html">04 Pom Architecture</a></li><li><a href="05-assertions-reporting.html">05 Assertions Reporting</a></li><li><a href="06-ci-integration.html">06 Ci Integration</a></li><li><a href="07-debugging.html">07 Debugging</a></li><li><a href="08-capstone-project.html">08 Capstone Project</a></li></ul></nav>
     </header>
     <main>
       <p>&lt;style&gt; body { text-align: justify; } &lt;/style&gt;</p>
-<h1>Module 5 — Assertions &amp; Reporting</h1>
+<h1>Module 3 — Web Automation with Selenium</h1>
 
-<p><strong>Assertions:</strong> clear failure messages, negative cases, boundary checks. <strong>Reporting:</strong> capture screenshots on failure, Allure steps &amp; attachments.</p>
+<p><strong>Key concepts:</strong> - Locators: <code>By.ID</code>, <code>By.NAME</code>, <code>By.CSS_SELECTOR</code>, <code>By.XPATH</code> - Waits: implicit vs explicit; <code>WebDriverWait</code> - Running headless Chrome - Test data and fixtures with Pytest</p>
 
-<p><strong>Task:</strong> add screenshot capture on failure and generate Allure report to <code>reports/allure</code>.</p>
+<p><strong>Hands-on:</strong> Automate a login form (e.g., <code>saucedemo.com</code>).</p>
 
     </main>
     <footer>
